@@ -1,0 +1,48 @@
+/* src/components/Project.css */
+.project{
+  cursor: pointer;
+}
+.projects-section {
+    padding: 20px;
+  }
+  
+  .project-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .project-card {
+    flex: 0 0 calc(40% - 20px);
+    max-width: calc(50% - 20px); /* Ensure no more than two cards per row */
+    height: 80vh; /* Set height to 100vh */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .project-image {
+    width: 100%;
+    border-radius: 8px;
+    height: 40vh;
+    object-fit: cover;
+    object-position: top;
+  }
+  
+  .project-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #0073b1; /* LinkedIn blue */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .project-link:hover {
+    background-color: #053d5b;
+  }
+  

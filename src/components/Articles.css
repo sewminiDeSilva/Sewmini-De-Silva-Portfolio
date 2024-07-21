@@ -1,0 +1,48 @@
+/* src/components/MediumArticles.css */
+.articles-section {
+    padding: 20px;
+}
+
+.article-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.article-card {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    margin: 10px 0;
+}
+
+.article-image {
+        width: 40hv;
+        border-radius: 8px;
+        height: 20vh;
+        object-fit: cover;
+        object-position: top;
+        margin-right: 5%;
+}
+
+.article-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.article-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:#0073b1;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 5px;
+    /* border: 1px solid black; */
+    transition: background-color 0.3s;
+}
+
+.article-link:hover {
+    background-color: #053a57;
+}
