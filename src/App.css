@@ -1,38 +1,49 @@
+/* src/App.css */
+/* Reset or normalize CSS can go here if needed */
+
 .App {
+  font-family: 'Inter', Arial, sans-serif;
+  /* Example using Inter, fallback to Arial and sans-serif */
+}
+
+header,
+nav,
+footer {
   text-align: center;
+  padding: 20px;
+  background-color: #333;
+  /* Very dark background, ensure text color contrast */
+  color: #fff;
+  /* White text for contrast */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+main {
+  padding: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+section {
+  margin: 20px 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+footer {
+  background-color: #ebecf2;
+  /* Light gray background */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  height: 20vh;
+  /* Adjust height as needed */
+  padding: 40px;
+  box-sizing: border-box;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.contact a {
+  text-decoration: none;
+  color: black;
+  /* Ensure good contrast with the light background */
+  margin: 0 1rem;
+  cursor: pointer;
+  background: none;
+  border: none;
 }
