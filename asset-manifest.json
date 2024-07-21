@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/Sewmini-De-Silva-Portfolio/static/css/main.ed2c2b1f.css",
-    "main.js": "/Sewmini-De-Silva-Portfolio/static/js/main.95c7a1f6.js",
+    "main.css": "/Sewmini-De-Silva-Portfolio/static/css/main.f94294ef.css",
+    "main.js": "/Sewmini-De-Silva-Portfolio/static/js/main.03a678a8.js",
     "static/js/453.4af818ce.chunk.js": "/Sewmini-De-Silva-Portfolio/static/js/453.4af818ce.chunk.js",
     "static/media/profilePic.png": "/Sewmini-De-Silva-Portfolio/static/media/profilePic.f281ec89b875d2e46449.png",
-    "static/media/Virtual tour app- Portfolio Project 1 - Case study.pdf": "/Sewmini-De-Silva-Portfolio/static/media/Virtual tour app- Portfolio Project 1 - Case study.3db98cfe2c290d21dbf3.pdf",
+    "static/media/Virtual tour app- Portfolio Project 1 - Case study.pdf": "/Sewmini-De-Silva-Portfolio/static/media/Virtual tour app- Portfolio Project 1 - Case study.52086f2c36d9786ebea9.pdf",
     "static/media/article2.png": "/Sewmini-De-Silva-Portfolio/static/media/article2.b57199ec94ae8170a2ac.png",
+    "static/media/cv-sewminiDeSilva.pdf": "/Sewmini-De-Silva-Portfolio/static/media/cv-sewminiDeSilva.7bb675d63a037300ed01.pdf",
     "static/media/article1.png": "/Sewmini-De-Silva-Portfolio/static/media/article1.a134e38437d29301c0fb.png",
+    "static/media/Little Lemon online booking .pdf": "/Sewmini-De-Silva-Portfolio/static/media/Little Lemon online booking .90faff8606eb8e2c6a61.pdf",
     "static/media/project1.PNG": "/Sewmini-De-Silva-Portfolio/static/media/project1.e3eb793ab7f92dc5e4be.PNG",
+    "static/media/project2.PNG": "/Sewmini-De-Silva-Portfolio/static/media/project2.66fa0cb467046aae9ef9.PNG",
     "index.html": "/Sewmini-De-Silva-Portfolio/index.html",
     "static/media/linkedin.svg": "/Sewmini-De-Silva-Portfolio/static/media/linkedin.033b1683dcd2583d7ff2c6ce56160dac.svg",
-    "main.ed2c2b1f.css.map": "/Sewmini-De-Silva-Portfolio/static/css/main.ed2c2b1f.css.map",
-    "main.95c7a1f6.js.map": "/Sewmini-De-Silva-Portfolio/static/js/main.95c7a1f6.js.map",
+    "main.f94294ef.css.map": "/Sewmini-De-Silva-Portfolio/static/css/main.f94294ef.css.map",
+    "main.03a678a8.js.map": "/Sewmini-De-Silva-Portfolio/static/js/main.03a678a8.js.map",
     "453.4af818ce.chunk.js.map": "/Sewmini-De-Silva-Portfolio/static/js/453.4af818ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed2c2b1f.css",
-    "static/js/main.95c7a1f6.js"
+    "static/css/main.f94294ef.css",
+    "static/js/main.03a678a8.js"
   ]
 }
