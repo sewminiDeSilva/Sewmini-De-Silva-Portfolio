@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Sewmini-De-Silva-Portfolio/precache-manifest.3a923512c5dd792f87c932abb2a6d4b6.js"
+  "/Sewmini-De-Silva-Portfolio/precache-manifest.e9ce55e8abc1efcc353d3638ba681ef5.js"
 );
 
 self.addEventListener('message', (event) => {

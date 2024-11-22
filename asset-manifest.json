@@ -1,30 +1,37 @@
 {
   "files": {
-    "main.css": "/Sewmini-De-Silva-Portfolio/static/css/main.9991b7df.chunk.css",
-    "main.js": "/Sewmini-De-Silva-Portfolio/static/js/main.1f09f086.chunk.js",
-    "main.js.map": "/Sewmini-De-Silva-Portfolio/static/js/main.1f09f086.chunk.js.map",
+    "main.css": "/Sewmini-De-Silva-Portfolio/static/css/main.0c6f5100.chunk.css",
+    "main.js": "/Sewmini-De-Silva-Portfolio/static/js/main.d49ded51.chunk.js",
+    "main.js.map": "/Sewmini-De-Silva-Portfolio/static/js/main.d49ded51.chunk.js.map",
     "runtime-main.js": "/Sewmini-De-Silva-Portfolio/static/js/runtime-main.f932b328.js",
     "runtime-main.js.map": "/Sewmini-De-Silva-Portfolio/static/js/runtime-main.f932b328.js.map",
-    "static/js/2.98ff132e.chunk.js": "/Sewmini-De-Silva-Portfolio/static/js/2.98ff132e.chunk.js",
-    "static/js/2.98ff132e.chunk.js.map": "/Sewmini-De-Silva-Portfolio/static/js/2.98ff132e.chunk.js.map",
+    "static/js/2.1dcab3f1.chunk.js": "/Sewmini-De-Silva-Portfolio/static/js/2.1dcab3f1.chunk.js",
+    "static/js/2.1dcab3f1.chunk.js.map": "/Sewmini-De-Silva-Portfolio/static/js/2.1dcab3f1.chunk.js.map",
     "index.html": "/Sewmini-De-Silva-Portfolio/index.html",
-    "precache-manifest.3a923512c5dd792f87c932abb2a6d4b6.js": "/Sewmini-De-Silva-Portfolio/precache-manifest.3a923512c5dd792f87c932abb2a6d4b6.js",
+    "precache-manifest.e9ce55e8abc1efcc353d3638ba681ef5.js": "/Sewmini-De-Silva-Portfolio/precache-manifest.e9ce55e8abc1efcc353d3638ba681ef5.js",
     "service-worker.js": "/Sewmini-De-Silva-Portfolio/service-worker.js",
-    "static/css/main.9991b7df.chunk.css.map": "/Sewmini-De-Silva-Portfolio/static/css/main.9991b7df.chunk.css.map",
-    "static/js/2.98ff132e.chunk.js.LICENSE.txt": "/Sewmini-De-Silva-Portfolio/static/js/2.98ff132e.chunk.js.LICENSE.txt",
+    "static/css/main.0c6f5100.chunk.css.map": "/Sewmini-De-Silva-Portfolio/static/css/main.0c6f5100.chunk.css.map",
+    "static/js/2.1dcab3f1.chunk.js.LICENSE.txt": "/Sewmini-De-Silva-Portfolio/static/js/2.1dcab3f1.chunk.js.LICENSE.txt",
     "static/media/Sewmini_De Silva.pdf": "/Sewmini-De-Silva-Portfolio/static/media/Sewmini_De Silva.05a18700.pdf",
+    "static/media/Virtual tour app- Portfolio Project 1 - Case study.pdf": "/Sewmini-De-Silva-Portfolio/static/media/Virtual tour app- Portfolio Project 1 - Case study.1fcff3a9.pdf",
+    "static/media/css.png": "/Sewmini-De-Silva-Portfolio/static/media/css.75e4d6d5.png",
     "static/media/html.png": "/Sewmini-De-Silva-Portfolio/static/media/html.387273e5.png",
     "static/media/java.png": "/Sewmini-De-Silva-Portfolio/static/media/java.ed373fba.png",
+    "static/media/js.png": "/Sewmini-De-Silva-Portfolio/static/media/js.63cf9c6f.png",
     "static/media/linkedin.8cc2d3a8.svg": "/Sewmini-De-Silva-Portfolio/static/media/linkedin.8cc2d3a8.svg",
     "static/media/mysql.png": "/Sewmini-De-Silva-Portfolio/static/media/mysql.efd22267.png",
     "static/media/php.png": "/Sewmini-De-Silva-Portfolio/static/media/php.1befcc4c.png",
     "static/media/profilePic.png": "/Sewmini-De-Silva-Portfolio/static/media/profilePic.19830ee8.png",
+    "static/media/project1.png": "/Sewmini-De-Silva-Portfolio/static/media/project1.a59ee586.png",
+    "static/media/project2.png": "/Sewmini-De-Silva-Portfolio/static/media/project2.0767144e.png",
+    "static/media/project4.png": "/Sewmini-De-Silva-Portfolio/static/media/project4.975698bf.png",
+    "static/media/project6.png": "/Sewmini-De-Silva-Portfolio/static/media/project6.fd106873.png",
     "static/media/react.png": "/Sewmini-De-Silva-Portfolio/static/media/react.f297dfcd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f932b328.js",
-    "static/js/2.98ff132e.chunk.js",
-    "static/css/main.9991b7df.chunk.css",
-    "static/js/main.1f09f086.chunk.js"
+    "static/js/2.1dcab3f1.chunk.js",
+    "static/css/main.0c6f5100.chunk.css",
+    "static/js/main.d49ded51.chunk.js"
   ]
 }
